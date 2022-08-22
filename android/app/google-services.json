@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446088624017",
+    "project_id": "udemy-food-delivery-app",
+    "storage_bucket": "udemy-food-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446088624017:android:b8323be73223915440cc30",
+        "android_client_info": {
+          "package_name": "com.technologentvalley.seller_app_food_deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446088624017-gaejsv21qennss6hlil2i4avppencbs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuslNPpLSRJv8xxRg9seYRAp3VcVMrKts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446088624017-gaejsv21qennss6hlil2i4avppencbs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
